@@ -1,0 +1,1 @@
+My app is a social justice network where people can connect. The languages I am using is jQuery, underscore, Javascript, and Bootstrap.
